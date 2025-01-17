@@ -1,0 +1,1 @@
+import{ax as e,p as t,q as n}from"./chunks/framework.DdDdX3wp.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/index.md","filePath":"components/index.md"}'),o={name:"components/index.md"};function a(s,r,c,p,d,i){return t(),n("div")}const f=e(o,[["render",a]]);export{_ as __pageData,f as default};
