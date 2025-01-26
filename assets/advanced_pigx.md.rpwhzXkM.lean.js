@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,a4 as n}from"./chunks/framework.Ct5bBWy3.js";const F=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"advanced/pigx.md","filePath":"advanced/pigx.md"}'),l={name:"advanced/pigx.md"},h=n("",24),p=[h];function k(t,e,E,r,d,g){return i(),a("div",null,p)}const c=s(l,[["render",k]]);export{F as __pageData,c as default};
